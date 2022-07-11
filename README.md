@@ -1,6 +1,6 @@
 ### Hi there 👋
-Welcome to my github profile page.
-I am studying to become a full-stack web programmer.
+<h2>Welcome to my github profile page.</h2>
+<h2>I am studying to become a full-stack web programmer.</h2>
 <!--
 **mm19999/mm19999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
